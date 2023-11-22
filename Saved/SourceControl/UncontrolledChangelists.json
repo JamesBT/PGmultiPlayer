@@ -8,7 +8,8 @@
 				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
 				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/NewWorld.umap",
 				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/WB_CreateSession.uasset",
-				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/Gameplay_Level.umap"
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/Gameplay_Level.umap",
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/WB_JoinSession.uasset"
 			]
 		}
 	]
