@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/NewWorld.umap",
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/WB_CreateSession.uasset",
+				"E:/Kuliah/Sem 5/Game/multiPlayer/Content/MultiPlayer/Gameplay_Level.umap"
+			]
+		}
+	]
+}
